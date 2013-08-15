@@ -1,0 +1,9 @@
+#top {
+	border:1px solid red;
+	padding:5px;
+	margin:5px;
+}
+#top div {
+	border:1px solid red;
+	margin:1px;
+}
